@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @dawiddrzala
-- 👀 I’m interested in Web 3
-- 🌱 I’m currently learning Golang/Rust
-- 💞️ I’m looking to collaborate on Cosmos projects
+- 👀 Web 3 and DeFi fan
+
 
 <!---
 dawiddrzala/dawiddrzala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
