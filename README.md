@@ -1,4 +1,7 @@
-- 👀 Web 3 and DeFi fan
+- 
+Software developer, fan of AI, Blockchain and any other tech progress. No ai generated posts, only human written content. 
+No hype just facts
+
 
 
 <!---
